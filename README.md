@@ -7,6 +7,4 @@ Using TensorFlow and its powerful image processing capabilities, the dataset was
 
 By leveraging the trained model, I created a user-friendly interface where users can upload their pet images and instantly receive the predicted breed. This project not only showcases my expertise in deep learning and computer vision but also highlights my ability to build practical solutions for real-world problems. With its high accuracy and intuitive functionality, this pet breed classification model holds great potential for applications in the pet industry and beyond.
 
-# output
 
-![image_1](https://github.com/Anjureddyk/Pet-Breed-Classification-Using-Convolutional-Neural-Networks/assets/109125485/e94e82e9-8eca-4aec-96bf-01427ff9d73a)
