@@ -1,10 +1,40 @@
 # Pet-Breed-Classification-Using-Convolutional-Neural-Networks
-CNN pet breed classification model with 78% accuracy. TensorFlow preprocessing and augmentation. User-friendly interface for instant breed prediction. Potential for pet industry applications.
 
-Successfully developed a pet breed classification model using a convolutional neural network (CNN). The model was trained on a diverse dataset of pet images, with a focus on differentiating between various breeds. With an accuracy of 78%, the model demonstrates its ability to accurately predict the breed of a given pet image.
+This project is a pet breed classification application using deep learning with the test accuracy of 23.65%. It allows users to upload an image of a pet and predicts the breed of the pet based on the trained model.
 
-Using TensorFlow and its powerful image processing capabilities, the dataset was preprocessed and augmented using techniques such as resizing and normalization. The CNN architecture consisted of multiple convolutional and pooling layers, followed by fully connected layers to classify the breeds. The model was trained and evaluated on separate training and validation sets to ensure reliable performance.
+## Introduction
 
-By leveraging the trained model, I created a user-friendly interface where users can upload their pet images and instantly receive the predicted breed. This project not only showcases my expertise in deep learning and computer vision but also highlights my ability to build practical solutions for real-world problems. With its high accuracy and intuitive functionality, this pet breed classification model holds great potential for applications in the pet industry and beyond.
+The Pet Breed Classification application is built using deep learning techniques and a pre-trained convolutional neural network (CNN) model. It is trained to classify various pet breeds, including dogs and cats. The trained model can predict the breed of a pet given an input image.
 
+## Installation
+
+To run the Pet Breed Classification application locally, follow these steps:
+
+Clone the repository:
+
+   ```shell
+   git clone https://github.com/Anjureddyk/Pet-Breed-Classification-Using-Convolutional-Neural-Networks.
+   
+## Usage
+
+To predict the breed of a pet using the Pet Breed Classification model, follow these steps:
+
+Prepare your input image:
+
+Make sure you have an image of a pet that you want to classify. Ensure that the image is in a format supported by the model (e.g., JPEG, PNG).
+
+Preprocess the image:
+
+Before making predictions, preprocess the input image according to the model's requirements. This may include resizing the image, normalizing pixel values, or any other necessary transformations.
+
+Make predictions:
+
+Use the pre-trained model to make predictions on the preprocessed image. The model will output a probability distribution over the different pet breeds.
+
+Interpret the predictions:
+
+The predicted breed can be determined by finding the breed with the highest probability in the prediction output. You can also consider displaying the top N predicted breeds with their respective probabilities.
+
+
+![image](https://github.com/Anjureddyk/Pet-Breed-Classification-Using-Convolutional-Neural-Networks/assets/109125485/d7bf8b5b-4348-4dd8-b578-37aedf42f3aa)
 
