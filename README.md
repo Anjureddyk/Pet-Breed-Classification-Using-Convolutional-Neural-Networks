@@ -6,14 +6,7 @@ This project is a pet breed classification application using deep learning with 
 
 The Pet Breed Classification application is built using deep learning techniques and a pre-trained convolutional neural network (CNN) model. It is trained to classify various pet breeds, including dogs and cats. The trained model can predict the breed of a pet given an input image.
 
-## Installation
-
-To run the Pet Breed Classification application locally, follow these steps:
-
-Clone the repository:
-
-   ```shell
-   git clone https://github.com/Anjureddyk/Pet-Breed-Classification-Using-Convolutional-Neural-Networks.
+git clone https://github.com/Anjureddyk/Pet-Breed-Classification-Using-Convolutional-Neural-Networks.
    
 ## Usage
 
@@ -37,4 +30,3 @@ The predicted breed can be determined by finding the breed with the highest prob
 
 
 ![image](https://github.com/Anjureddyk/Pet-Breed-Classification-Using-Convolutional-Neural-Networks/assets/109125485/d7bf8b5b-4348-4dd8-b578-37aedf42f3aa)
-
