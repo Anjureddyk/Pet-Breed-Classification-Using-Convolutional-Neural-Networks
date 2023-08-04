@@ -13,7 +13,6 @@ git clone https://github.com/Anjureddyk/Pet-Breed-Classification-Using-Convoluti
 To predict the breed of a pet using the Pet Breed Classification model, follow these steps:
 
 
-
 Prepare your input image:
 
 Make sure you have an image of a pet that you want to classify. Ensure that the image is in a format supported by the model (e.g., JPEG, PNG).
