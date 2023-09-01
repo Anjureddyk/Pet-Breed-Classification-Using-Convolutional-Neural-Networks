@@ -1,6 +1,6 @@
 # Pet-Breed-Classification-Using-Convolutional-Neural-Networks
 
-This project is a pet breed classification application using deep learning with the test accuracy of 23%. It allows users to upload an image of a pet and predicts the breed of the pet based on the trained model.
+This project is a pet breed classification application using deep learning with the test accuracy of 71%. It allows users to upload an image of a pet and predicts the breed of the pet based on the trained model.
 
 ## Introduction
 
